@@ -1,5 +1,5 @@
 # 1082ComputerProgrammingII
-Repository of my class when I  a freshman.
+Repository of my class when I was a freshman.
 
 HW01 - 2020-03-02<br>
 HW02 - 2020-03-09<br>
