@@ -1,4 +1,4 @@
-# 1082ComputerProgrammingII
+# 1082ComputerProgrammingII YzuCse
 Repository of my class when I was a freshman.
 
 HW01 - 2020-03-02<br>
